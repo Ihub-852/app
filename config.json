@@ -1,0 +1,11 @@
+{
+    "name": "MyProject",
+    "version": "2.0.0",
+    "description": "A sample project",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+}
